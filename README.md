@@ -1,2 +1,2 @@
-# shittytest
-It's all about shitty code
+# Git-Github
+This Repo contains everything about Git and Github
